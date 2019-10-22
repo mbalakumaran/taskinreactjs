@@ -1,0 +1,18 @@
+.users{
+  display: inline-block;
+  width: 400px;
+
+}
+.users-list{
+  margin: 30px;
+  padding: 40px;
+  background-color: fuchsia;
+  text-align: center;
+}
+.users-text{
+  margin-bottom: 20px;
+}
+.link-btn{
+  background-color: aqua;
+  padding:10px 30px;
+}
